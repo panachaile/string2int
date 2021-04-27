@@ -1,0 +1,11 @@
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\bin\Debug\netcoreapp3.0\string2intExam.exe
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\bin\Debug\netcoreapp3.0\string2intExam.deps.json
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\bin\Debug\netcoreapp3.0\string2intExam.runtimeconfig.json
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\bin\Debug\netcoreapp3.0\string2intExam.runtimeconfig.dev.json
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\bin\Debug\netcoreapp3.0\string2intExam.dll
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\bin\Debug\netcoreapp3.0\string2intExam.pdb
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\obj\Debug\netcoreapp3.0\string2intExam.csprojAssemblyReference.cache
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\obj\Debug\netcoreapp3.0\string2intExam.AssemblyInfoInputs.cache
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\obj\Debug\netcoreapp3.0\string2intExam.AssemblyInfo.cs
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\obj\Debug\netcoreapp3.0\string2intExam.dll
+D:\Panachai\string2intExam\string2int\string2intExam\string2intExam\obj\Debug\netcoreapp3.0\string2intExam.pdb
